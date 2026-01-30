@@ -1,6 +1,6 @@
 # Privacy Policy for ALLAK Game
 
-**Last Updated: January 2024**
+**Last Updated: January 2026**
 
 ## 1. Introduction
 
@@ -82,3 +82,4 @@ If you have questions about this Privacy Policy or our practices, please contact
 - **We don't sell**: Your personal data to third parties
 - **We use encryption**: For secure data transmission
 - **You control**: Your local game data and ad preferences
+
